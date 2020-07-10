@@ -12,6 +12,7 @@ The repository contains code that was used in the data analysis for experimental
 - lofreq ([site](https://csb5.github.io/lofreq/))
 - VCFtools ([site](http://vcftools.sourceforge.net/))
 - SnpEff ([site](http://snpeff.sourceforge.net/))
+- Pandas library for Python ([site](https://pandas.pydata.org/))
 
 ### The variant calling steps:
 1. Install all software from the list.

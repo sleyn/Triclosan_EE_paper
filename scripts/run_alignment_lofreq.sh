@@ -27,7 +27,7 @@ picarddir=""		#path to Picard Tools
 gatkdir=""			#path to GATK
 vcfdir=""			#path to vcftools
 snpeffdir=""		#path to snpEff
-aux=""				#path to the auxiliary file folder (Aux in the archive)
+aux=""				#path to the auxiliary file folder (aux in the archive)
 fqdir=""			#directory with FastQ files
 thr=1				#number of CPU threads
 
