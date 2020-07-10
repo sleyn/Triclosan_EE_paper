@@ -16,9 +16,9 @@ The repository contains code that was used in the data analysis for experimental
 ### The variant calling steps:
 1. Install all software from the list.
 2. Create Ecoli_BW25113 database for SnpEff using included `Escherichia_coli_BW25113.gbff` GenBank file (should be renamed to `genes.gbk`).
-3. Run prepare_reference.sh to create all index files for the reference.
+3. Run `prepare_reference.sh` to create all index files for the reference.
 4. Copy fastq.gz files from the SRA.
 5. Create working directory.
-6. Copy `run_alignment_lofreq.sh` to the working directory and run it.
+6. Copy `run_alignment_lofreq.sh` to the working directory.
 7. Fill all required paths in `run_alignment_lofreq.sh`.
 8. Run the `run_alignment_lofreq.sh`.
