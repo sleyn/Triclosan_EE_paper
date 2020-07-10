@@ -4,15 +4,16 @@ Experimental evolution of E. coli with exposure to triclosan
 The repository contains code that was used in the data analysis for experimental evolution of *Escherichia coli BW25113 &Delta;uxaC::kan* strain under the triclosan treatment.
 
 ### List of used software:
-- Trimmomatic ([site](http://www.usadellab.org/cms/?page=trimmomatic))
-- BWA ([site](http://bio-bwa.sourceforge.net/))
-- Picard Tools ([site](https://broadinstitute.github.io/picard/))
-- GATK ([site](https://software.broadinstitute.org/gatk/))
-- Samtools and HTSlib ([site](http://www.htslib.org/))
-- lofreq ([site](https://csb5.github.io/lofreq/))
-- VCFtools ([site](http://vcftools.sourceforge.net/))
-- SnpEff ([site](http://snpeff.sourceforge.net/))
-- Pandas library for Python ([site](https://pandas.pydata.org/))
+- **Trimmomatic** ([site](http://www.usadellab.org/cms/?page=trimmomatic))
+- **BWA** ([site](http://bio-bwa.sourceforge.net/))
+- **Picard Tools** ([site](https://broadinstitute.github.io/picard/))
+- **GATK 3** ([site](https://software.broadinstitute.org/gatk/))
+- **Samtools and HTSlib** ([site](http://www.htslib.org/))
+- **lofreq** ([site](https://csb5.github.io/lofreq/))
+- **VCFtools** ([site](http://vcftools.sourceforge.net/))
+- **SnpEff** ([site](http://snpeff.sourceforge.net/))
+- **Pandas** package for Python3 ([site](https://pandas.pydata.org/))
+- **iJump** ([site](https://github.com/sleyn/ijump), requires **BioPython**, **pandas**, **pysam** and **pysamstats** Python3 packages)
 
 ### The variant calling steps:
 1. Install all software from the list.
