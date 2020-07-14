@@ -31,7 +31,7 @@ To clean data we made the following filtering:
 1.	**A-C/T-G variants:**
 -	Frequency distribution is close to log-normal with mean=1.39, SD=0.237 (Fig. SM1);
 
-<img src="img/SM2.png" height="300" width="300"><br>
+<img src="img/SM1.png" height="300" width="300"><br>
 **Figure SM1.** Distribution of frequencies for A-C and T-G variants combined from all samples. The histogram of frequencies drawn randomly from theoretical log-normal distribution with mean=1.39 and SD=0.237 is plotted orange.
 
 -	Assuming log-normal distribution as the background assign probability to observe this or higher frequency as a p-value to each variant observation;
