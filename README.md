@@ -31,7 +31,7 @@ To clean data we made the following filtering:
 1.	**A-C/T-G variants:**
 -	Frequency distribution is close to log-normal with mean=1.39, SD=0.237 (Fig. SM1);
 
-<img src="img/SM1.png" style="width:300px;height:300px;"><br>
+<img src="img/SM2.png" height="300" width="300"><br>
 **Figure SM1.** Distribution of frequencies for A-C and T-G variants combined from all samples. The histogram of frequencies drawn randomly from theoretical log-normal distribution with mean=1.39 and SD=0.237 is plotted orange.
 
 -	Assuming log-normal distribution as the background assign probability to observe this or higher frequency as a p-value to each variant observation;
@@ -39,7 +39,7 @@ To clean data we made the following filtering:
 2.	**C-A/G-T variants:**
 -	Frequency distribution is bimodal (Fig. SM2). The left part follows log-normal distribution with mean = 1.26 and SD = 0.36 and right is close to normal with mean=9.8 and SD=2.5;
 
-<img src="img/SM2.png" style="width:300px;height:300px;"><br>
+<img src="img/SM2.png" height="300" width="300"><br>
 **Figure SM2.** Distribution of frequencies for C-A and G-T variants combined from all samples. The densities of log-normal distribution with mean = 1.26 and SD = 0.36, and normal distribution with mean = 9.8 and SD=2.5 are plotted orange and purple. Red vertical line represents proposed threshold for false positives.
 
 -	Set threshold for false-positives as intersection of both distributions at 6.5%
