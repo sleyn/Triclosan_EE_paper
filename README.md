@@ -1,5 +1,5 @@
 # Scripts and description of NGS data post-processing
-## for paper Leyn SA, *et al.*, "Experimental evolution in morbidostat reveals converging genomic trajectories on the path to triclosan resistance", Microb Genom., 2020
+## Leyn SA, *et al.*, "Experimental evolution in morbidostat reveals converging genomic trajectories on the path to triclosan resistance", Microb Genom., 2020
 
 Experimental evolution of *Escherichia coli* BW25113 uxaC-Knockout with exposure to triclosan
 
