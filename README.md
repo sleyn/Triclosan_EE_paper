@@ -1,9 +1,11 @@
-# Triclosan Experimental evolution paper
+# Scripts and description of NGS data post-processing
+## for paper Leyn SA, *et al.*, "Experimental evolution in morbidostat reveals converging genomic trajectories on the path to triclosan resistance", Microb Genom., 2020
+
 Experimental evolution of *Escherichia coli* BW25113 uxaC-Knockout with exposure to triclosan
 
 The repository contains code that was used in the data analysis for experimental evolution of *Escherichia coli BW25113 &Delta;uxaC::kan* strain under the triclosan treatment.
 
-FastQ files for could be downloaded from the NCBI SRA database through BioProject **PRJNA472810**.
+FastQ files for could be downloaded from the NCBI SRA database through BioProject [**PRJNA472810**](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA472810).
 
 ### List of used software:
 - **Trimmomatic** ([site](http://www.usadellab.org/cms/?page=trimmomatic))
